@@ -13,7 +13,7 @@
     </td>
   </tr>
 </table>
-<p align="left">タスクを管理し、日々の頑張りを後で見返すことのできるアプリ</p>
+<p align="left">タスクを管理し、日々の頑張りを後で見返すことのできるアプリです</p>
 <p align="left">
   <a href="https://apps.apple.com/jp/app/%E3%82%BF%E3%82%B9%E3%82%AF%E3%83%88%E3%83%A9%E3%83%83%E3%82%AB%E3%83%BC/id6447428420">
     <img src="https://linkmaker.itunes.apple.com/assets/shared/badges/ja-jp/appstore-lrg.svg" height="50px">
